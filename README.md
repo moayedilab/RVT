@@ -4,7 +4,7 @@ Rat Vocal Tracker 1.0
 
 RVT1.0 Instructions:
 
-1.	Go to https://github.com/moayedilab/RVFT and download all files 
+1.	Go to https://github.com/moayedilab/RVT and download all files 
 
 2.	Go to https://doi.org/10.5281/zenodo.7789946 to download the model
 
